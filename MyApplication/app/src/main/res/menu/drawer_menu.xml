@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/acc_id"
+            android:title="Home"
+            android:icon="@drawable/house"
+
+
+
+            ></item>
+        <item
+            android:id="@+id/planning_id"
+            android:title="Planning"
+            android:icon="@drawable/agenda"
+
+
+
+            ></item>
+        <item
+            android:id="@+id/equipe_id"
+            android:title="L'Equipe"
+            android:icon="@drawable/team"
+
+
+
+            ></item>
+        <item
+            android:id="@+id/presentation_id"
+            android:title="Presentatiion"
+            android:icon="@drawable/pres"
+
+
+
+            ></item>
+        <item
+            android:id="@+id/contact_id"
+            android:title="Contact"
+            android:icon="@drawable/mail"
+
+
+
+            ></item>
+    </group>
+
+
+</menu>
